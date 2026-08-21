@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI Product
 - 🌱 I’m currently learning NLP
 - 💞️ I’m looking to collaborate on something interesting
-- 📫 Reach me in www.eggice.com
+- 📫 Reach me in geeknock
 
 <!---
 ritsu37/ritsu37 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
